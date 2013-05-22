@@ -9,7 +9,7 @@ Right-click to close.
 Dead. Simple.
 
 Download:
-https://github.com/b9chris/TrivialViewer/tree/master/builds/TrivialViewer.zip
+https://brass9.com/TrivialViewer.zip
 
 Install instructions:
 
@@ -21,4 +21,4 @@ Install instructions:
 
 4. Find the .exe you unzipped. You can also check a checkbox in this dialog to make TrivialViewer the default viewer in the future.
 
-Voila, image opens in Trivial Viewer.
+Voila, image opens in Trivial Viewer. No borders, just your image. Pristine.
