@@ -1,6 +1,6 @@
 # TrivialViewer #
 
-A simple Windows image viewer for with no window borders, no controls, nothing - open an image, you get just the image.
+A simple Windows image viewer  with no window borders, no controls, nothing. Open an image, you get just the image.
 
 ![screenshot](http://brass9.com/TrivialViewer/ss.jpg)
 
@@ -13,14 +13,28 @@ Dead. Simple.
 Download:
 http://brass9.com/TrivialViewer.zip
 
-Install instructions:
+
+##Install instructions
 
 1. Download the zip file and open it.
 
 2. Copy the .exe inside to wherever.
 
-3. Hold shift and right-click an image.
 
-4. Find the .exe you unzipped. You can also check a checkbox in this dialog to make TrivialViewer the default viewer in the future.
+##To open images with TrivialViewer
+
+Drag an image onto the .exe
+
+or
+
+1. Right-click an image.
+
+2. Click Open With...
+
+3. Click Choose default program...
+
+4. Find the .exe you unzipped.
+
+If you check the "Always..." checkbox at the bottom of the window, images of this file extension will always open in TrivialViewer. If you don't, TrivialViewer will just appear in the Open With... menu as an option in the future for images with this file extension.
 
 Voila, image opens in Trivial Viewer. No borders, just your image. Pristine.
