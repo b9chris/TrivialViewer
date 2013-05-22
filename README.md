@@ -2,6 +2,8 @@
 
 A simple Windows image viewer for with no window borders, no controls, nothing - open an image, you get just the image.
 
+![screenshot](http://brass9.com/TrivialViewer/ss.jpg)
+
 Resize by dragging the sides of the image.
 
 Right-click to close.
@@ -9,7 +11,7 @@ Right-click to close.
 Dead. Simple.
 
 Download:
-https://brass9.com/TrivialViewer.zip
+http://brass9.com/TrivialViewer.zip
 
 Install instructions:
 
