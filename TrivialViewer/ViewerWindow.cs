@@ -12,7 +12,7 @@ namespace TrivialViewer
 	{
 		const int WINDOW_GRIP_SIZE = 5;
 
-		const string DEFAULT_IMAGE_PATH = "Cart Wireframes v3.png";//"lunch.png";
+		const string DEFAULT_IMAGE_PATH = "DoNotBuy.jpg";
 
 		protected delegate void PaintDelegate(PaintEventArgs ev);
 
@@ -70,11 +70,6 @@ namespace TrivialViewer
 		}
 
 		/*
-		 * TODO: Handle images larger the screen resolution (which Windows apparently
-		 * doesn't like) by making the top, left, width and height numbers just abstract
-		 * numbers, and the Form top, left, width and height a function of what portion is
-		 * actually on-screen, allowing infinite zoom-in capability
-		 * 
 		 * TODO: Make stretching a little nicer - something to do with distance of mouse cursor
 		 * away from center, but should it be center based on initial mousedown or center from
 		 * mousemove to mousemove? Iterative function problem...
@@ -90,7 +85,10 @@ namespace TrivialViewer
 		 * TODO: Mouse-over controls like 1x, current %zoom, cursor draws coords right next to
 		 * it
 		 * 
+		 * TODO: Make loading small, translucent, or all-white, etc images more noticeable by highlighting them on the screen
+		 * briefly, and maybe doing so again when they regain focus via the Windows taskbar etc.
 		 * 
+		 * TODO: Test pinch to zoom on Win8 - might already work with the way events tie to resize
 		 */
 
 		protected void init(string imagePath)
