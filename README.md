@@ -37,4 +37,4 @@ or
 
 If you check the "Always..." checkbox at the bottom of the window, images of this file extension will always open in TrivialViewer. If you don't, TrivialViewer will just appear in the Open With... menu as an option in the future for images with this file extension.
 
-Voila, image opens in Trivial Viewer. No borders, just your image. Pristine.
+If you want this to be the default image viewer for all image types you'll have to do this for each type - for example .png, .jpg, .jpeg, .gif, and .bmp.
