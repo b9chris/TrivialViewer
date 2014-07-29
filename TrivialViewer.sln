@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialViewer", "TrivialViewer\TrivialViewer.csproj", "{283D3ABC-E37E-4A74-B4E8-8A22301EA90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialViewerTouch", "TrivialViewerTouch\TrivialViewerTouch.csproj", "{87AD4F7C-B9F0-4F1A-8149-75D015D92C5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{283D3ABC-E37E-4A74-B4E8-8A22301EA90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283D3ABC-E37E-4A74-B4E8-8A22301EA90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283D3ABC-E37E-4A74-B4E8-8A22301EA90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AD4F7C-B9F0-4F1A-8149-75D015D92C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AD4F7C-B9F0-4F1A-8149-75D015D92C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AD4F7C-B9F0-4F1A-8149-75D015D92C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AD4F7C-B9F0-4F1A-8149-75D015D92C5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

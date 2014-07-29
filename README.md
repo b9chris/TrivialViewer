@@ -16,7 +16,7 @@ http://brass9.com/TrivialViewer.zip
 
 ##Install instructions
 
-1. Download the zip file and open it.
+1. [Download the zip file](http://brass9.com/TrivialViewer.zip) and open it.
 
 2. Copy the .exe inside to wherever.
 

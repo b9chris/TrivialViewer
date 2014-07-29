@@ -1,10 +1,11 @@
-
-/TrivialViewer/bin/Debug
-/TrivialViewer/obj
-/TrivialViewer/TrivialViewer.csproj.user
-/TrivialViewer.suo
+/*/bin/Debug
+/*/obj
+*.user
+*.suo
 /TrivialViewer/bin/Release/TrivialViewer.exe.config
 /TrivialViewer/bin/Release/TrivialViewer.pdb
 /TrivialViewer/bin/Release/TrivialViewer.vshost.exe
 /TrivialViewer/bin/Release/TrivialViewer.vshost.exe.config
 /TrivialViewer/bin/Release/TrivialViewer.vshost.exe.manifest
+/packages/*
+!/packages/repositories.config

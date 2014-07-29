@@ -530,5 +530,25 @@ namespace TrivialViewer
 			var destRect = new Rectangle(0, 0, Width, Height);
 			g.DrawImage(image, destRect, srcRect, GraphicsUnit.Pixel);
 		}
+
+		/*
+		// Never called
+		private void ViewerWindow_ResizeBegin(object sender, EventArgs e)
+		{
+
+		}
+
+		// Never called
+		private void ViewerWindow_Scroll(object sender, ScrollEventArgs e)
+		{
+
+		}
+
+		// Called multiple times at init, and anytime we resize the window in code
+		private void ViewerWindow_Resize(object sender, EventArgs e)
+		{
+
+		}
+		*/
 	}
 }
